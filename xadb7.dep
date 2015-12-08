@@ -1,0 +1,13 @@
+
+; Dependency file for setup wizards.
+
+[Version]
+Version=7.0.0.4
+
+[xadb7.ocx]
+Register=$(DLLSelfRegister)
+Version=7.0.0.4
+Uses1=
+CABFileName=
+CABDefaultURL=
+CABINFFile=
